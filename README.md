@@ -1,6 +1,11 @@
 # Xamarin.SimplePing
 
+
+
 SimplePing demonstrates ping (ICMP) send and receive.
+
+A Xamarin.iOS and Xamarin.Mac binding for the Apple sample:
+https://developer.apple.com/library/content/samplecode/SimplePing
 
 On most platforms ping requires privileges (it's implemented with a raw IP socket). 
 Apple platforms include a special facility that allows you to ping without privileges.
