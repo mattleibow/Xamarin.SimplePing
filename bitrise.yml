@@ -5,12 +5,12 @@ project_type: xamarin
 
 trigger_map:
 - push_branch: "*"
-  workflow: primary
+  workflow: ci
 - pull_request_source_branch: "*"
-  workflow: primary
+  workflow: ci
 
 workflows:
-  primary:
+  ci:
     steps:
     - script:
         title: Build Repository
