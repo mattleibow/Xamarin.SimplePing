@@ -1,6 +1,6 @@
 # Xamarin.SimplePing
 
-
+[![Build Status](https://www.bitrise.io/app/26b2b1828e248e3a/status.svg?token=LBY4eEQN88c2FrzF5RhfAg&branch=master)](https://www.bitrise.io/app/26b2b1828e248e3a)
 
 SimplePing demonstrates ping (ICMP) send and receive.
 
